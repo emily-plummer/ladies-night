@@ -1,0 +1,28 @@
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  font-family: 'PT Serif', serif;
+  color: #272E55;
+  margin-bottom: 27px;
+  -webkit-margin-before:0em;
+  -webkit-margin-after:0em;
+}
+
+
+.copy {
+  font-family: 'PT Serif', serif;
+  color: #272E55;
+  font-size: 20px;
+  margin-bottom: 44px;
+  line-height: 36px;
+}
+
+
+.container {
+  align-self: flex-end;
+  padding: 30px;
+  width: 50%;
+  box-sizing: border-box;
+  top: -200px;
+  position: relative;
+}

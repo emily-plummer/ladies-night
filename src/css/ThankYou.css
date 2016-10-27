@@ -1,0 +1,32 @@
+.container {
+  font-family: 'PT Serif', serif;
+  display: inline-flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: 50%;
+  top: -200px;
+  position: relative;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.thankYou {
+  color: #272E55;
+  align-self: flex-start;
+  margin-right: 100px;
+  -webkit-margin-before:0em;
+  -webkit-margin-after:0em;
+}
+
+.names {
+  color: #104DB8;
+  align-self: flex-end;
+  -webkit-margin-before:0em;
+  -webkit-margin-after:0em;
+}
+
+.names li {
+  list-style: none;
+  margin-bottom: 10px;
+  -webkit-margin-before:0em;
+}
